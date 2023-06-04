@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+* {
+  font-family: "Inter", sans-serif;
+}
+
+.drawer-side a.active {
+  color: white;
+}
+.drawer-side a {
+  background-color: transparent;
+}
